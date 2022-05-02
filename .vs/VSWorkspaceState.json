@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\api",
+    "\\controles",
+    "\\librerias\\bootstrap-table\\extensions\\export\\tableExport",
+    "\\modelos",
+    "\\public",
+    "\\vistas",
+    "\\webserver"
+  ],
+  "SelectedNode": "\\api\\medicos.php",
+  "PreviewInSolutionExplorer": false
+}

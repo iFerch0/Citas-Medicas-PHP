@@ -1,0 +1,1 @@
+<?php$host_bd ="localhost";$user_bd ="root";$pass_bd ="";$nombre_bd ="clinicalserv";?>
